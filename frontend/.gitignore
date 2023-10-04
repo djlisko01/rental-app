@@ -1,0 +1,11 @@
+# Dependency directories
+/node_modules
+
+# Production build output
+/build
+
+yarn.lock
+
+# Local env files
+.env.local
+.env.development.local
